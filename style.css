@@ -30,8 +30,7 @@ line-height: 0,5;
 }
 
 h1, h2 {
-font-size: ;
-line-height:
+
 }
 
 .profile-pic {
@@ -64,7 +63,6 @@ a:hover {
   border: 1px solid lightgrey;
 }
 
-p {
-text
+.container {
 text-align: center;
 }
