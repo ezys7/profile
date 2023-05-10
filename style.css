@@ -29,10 +29,6 @@ line-height: 3;
 line-height: 0,5;
 }
 
-h1, h2 {
-
-}
-
 .profile-pic {
   height: 250px;
   width: 250px;
@@ -41,10 +37,6 @@ h1, h2 {
   border-radius: 50%;
 }
 
-a {
-  color: green;
-  text-decoration:underline
-}
 a:hover {
   text-decoration: wavy;
 }
@@ -53,9 +45,6 @@ a:hover {
   border-radius: 50%;
 }
 
-.text-center {
-  text-align: center;
-}
 
 .card-white {
   background: white;
@@ -65,6 +54,23 @@ a:hover {
 
 .container {
 text-align: center;
+background-color: yellow;
 }
 
+.btn-insta {
+  color: hotpink;
+  padding: 15px 25px;
+  border-radius: 14px;
+  background-color: darkolivegreen;
+  border-color: gold;
+  font-weight: bold;
+}
 
+.btn-linkedin {
+  color: hotpink;
+  padding: 15px 25px;
+  border-radius: 14px;
+  background-color: darkolivegreen;
+  border-color: gold;
+  font-weight: bold;
+}
